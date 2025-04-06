@@ -1,3 +1,4 @@
 # Portfólio Beatriz Pires!
-<p> Acesse aqui: BeatrizzPiress.github.io</p>
+<a href="BeatrizzPiress.github.io" target="_blank">Clique aqui para ver o projeto</a>
+
 <img src="assets/Portfólio .png" />
