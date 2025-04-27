@@ -1,4 +1,4 @@
-## 3. Portfólio Minimalista
+## Portfólio Minimalista
 
 Landing Page de portfólio pessoal
 
